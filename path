@@ -1,0 +1,12 @@
+git hub  --- https://github.com/awanish-edureka/devops-tools 
+https://github.com/cgvaikulka
+https://github.com/jenkins-docs/simple-java-maven-app
+
+
+
+using with cmd it will  pull all changes from the puppet master (CFMG server)
+#puppet agent -t
+
+if u want to go to the docker inside the container use below command
+
+#Docker exec -it containerid /bin/bash 
